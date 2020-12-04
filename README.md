@@ -1,7 +1,9 @@
 # Olá 👋
 
 Meu nome é João Henrique 🕴🇧🇷
+
 Moro em Assis-SP
+
 Atualmente estou estudando HTML5 & JavaScript
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
