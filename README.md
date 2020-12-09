@@ -6,7 +6,7 @@ Moro em Assis-SP
 
 Atualmente estou estudando HTML5 & JavaScript;
 
-Tenho conhecimento no básico de Python.
+Tenho conhecimento no BÁSICO de Python.
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
