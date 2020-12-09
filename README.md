@@ -1,8 +1,8 @@
 # Olá 👋
 
-Meu nome é João Henrique 🕴🇧🇷
+Meu nome é João Henrique 🕴
 
-Moro em Assis-SP
+Moro em Assis, São Paulo | Brazil
 
 Atualmente estou estudando HTML5 & JavaScript;
 
