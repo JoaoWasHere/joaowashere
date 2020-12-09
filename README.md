@@ -4,8 +4,9 @@ Meu nome é João Henrique 🕴🇧🇷
 
 Moro em Assis-SP
 
-Atualmente estou estudando HTML5 & JavaScript
-Tenho conhecimento no básico de Python
+Atualmente estou estudando HTML5 & JavaScript;
+
+Tenho conhecimento no básico de Python.
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
